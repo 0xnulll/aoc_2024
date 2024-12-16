@@ -200,4 +200,5 @@ for (let i = 0; i < matrix.length; i++) {
         }
     }
 }     
+console.log(`Solution 2 = ${getSolution(matrix, moves)}`);
 console.log(`Solution 2 = ${getSolution2(newMatrix, moves)}`);
